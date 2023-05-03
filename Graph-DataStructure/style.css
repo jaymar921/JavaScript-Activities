@@ -1,0 +1,20 @@
+body{
+	margin:  0;
+}
+
+canvas{
+	position: relative;
+	width: 700px;
+	height: 500px;
+	margin: auto;
+	border:  2px solid black;
+}
+
+.output{
+	width: 200px;
+	position: absolute;
+	right: 0;
+	top: 0;
+	height: 500px;
+	overflow: scroll;
+}
